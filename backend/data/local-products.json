@@ -1,0 +1,57 @@
+[
+  {
+    "id": "11111111-1111-4111-8111-111111111101",
+    "barcode": "7891000100103",
+    "name": "Leite Integral",
+    "brand": "Ninho",
+    "categoryName": "Despensa",
+    "currentQuantity": 2,
+    "minQuantity": 3,
+    "idealQuantity": 6,
+    "unit": "L"
+  },
+  {
+    "id": "11111111-1111-4111-8111-111111111102",
+    "barcode": "7896006711154",
+    "name": "Arroz Branco Tipo 1 (5kg)",
+    "brand": "Camil",
+    "categoryName": "Despensa",
+    "currentQuantity": 2,
+    "minQuantity": 1,
+    "idealQuantity": 2,
+    "unit": "pct"
+  },
+  {
+    "id": "11111111-1111-4111-8111-111111111103",
+    "barcode": "7891150056404",
+    "name": "Detergente Líquido Neutro",
+    "brand": "Ypê",
+    "categoryName": "Limpeza",
+    "currentQuantity": 1,
+    "minQuantity": 2,
+    "idealQuantity": 4,
+    "unit": "un"
+  },
+  {
+    "id": "11111111-1111-4111-8111-111111111104",
+    "barcode": null,
+    "name": "Peito de Frango Congelado",
+    "brand": "Sadia",
+    "categoryName": "Geladeira & Freezer",
+    "currentQuantity": 1,
+    "minQuantity": 2,
+    "idealQuantity": 4,
+    "unit": "kg"
+  },
+  {
+    "id": "11111111-1111-4111-8111-111111111105",
+    "barcode": "7891010038908",
+    "name": "Creme Dental Total 12",
+    "brand": "Colgate",
+    "categoryName": "Higiene Pessoal",
+    "currentQuantity": 3,
+    "minQuantity": 1,
+    "idealQuantity": 3,
+    "unit": "un"
+  }
+]

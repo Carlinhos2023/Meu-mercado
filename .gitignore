@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.vercel/
+_para_subir_no_github/
+*.log
